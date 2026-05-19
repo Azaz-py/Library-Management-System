@@ -1,0 +1,23 @@
+{
+    "books": [
+        {
+            "book_id": "101",
+            "title": "The Forty Rules of Love",
+            "author": "Elif Shafak",
+            "is_available": true
+        },
+        {
+            "book_id": "102",
+            "title": "Peer-e-Kamil",
+            "author": "Umera Ahmad",
+            "is_available": true
+        }
+    ],
+    "members": [
+        {
+            "member_id": "M1",
+            "name": "Ahmed Ali",
+            "borrowed_books": []
+        }
+    ]
+}
